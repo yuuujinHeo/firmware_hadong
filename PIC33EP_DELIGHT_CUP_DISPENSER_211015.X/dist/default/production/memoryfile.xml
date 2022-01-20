@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/PIC33EP_DELIGHT_CUP_DISPENSER_211015.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>4096</length>
+      <used>314</used>
+      <free>3782</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>32994</length>
+      <used>6327</used>
+      <free>26667</free>
+    </memory>
+  </executable>
+</project>

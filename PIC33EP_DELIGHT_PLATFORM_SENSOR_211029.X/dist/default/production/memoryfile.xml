@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/PIC33EP_DELIGHT_PLATFORM_SENSOR_211029.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>4096</length>
+      <used>350</used>
+      <free>3746</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>32994</length>
+      <used>6045</used>
+      <free>26949</free>
+    </memory>
+  </executable>
+</project>
